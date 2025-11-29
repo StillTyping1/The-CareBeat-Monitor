@@ -1,0 +1,5 @@
+customtkinter==5.2.2
+bleak==0.22.3
+matplotlib==3.8.2
+numpy==1.26.4
+sounddevice==0.5.1

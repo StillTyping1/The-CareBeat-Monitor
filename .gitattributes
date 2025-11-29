@@ -1,0 +1,9 @@
+# Set the default behavior to automatically handle line endings
+* text=auto
+
+# Force all text files to use LF (Linux/Mac/CircuitPython)
+# This is the modern standard and ensures consistency
+*.py text eol=lf
+*.toml text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
